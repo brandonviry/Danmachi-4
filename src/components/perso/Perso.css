@@ -1,0 +1,20 @@
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.cardHover:hover {
+    border: 3px solid pink;
+    transform: scale(125%,125%);
+}
+.cardHover{
+    border: 3px solid white;
+  
+    height:3%;
+    
+    
+   
+}

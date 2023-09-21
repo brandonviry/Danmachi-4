@@ -1,0 +1,33 @@
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+
+     padding: 0.8em;
+     margin: 2em;
+    
+    color:#0a1e3d;
+    background-image: url("https://danmachi.com/danmachi/images/story-episode-base.png");
+    background-size: cover;
+    background-repeat: repeat;
+   
+    
+}
+
+body{
+   
+    margin: 0px;
+    
+  
+ background-size: cover;
+ padding: 5em;
+
+
+}
+
+#root{
+    margin: 0px;
+}
+html{
+    background-image: url("https://danmachi.com/danmachi/images/story-bg_compressed.jpg");
+}

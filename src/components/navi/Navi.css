@@ -1,0 +1,37 @@
+nav {
+  width: 100hh;
+}
+
+nav ul {
+  list-style: none;
+
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+  justify-content: center;
+  border-radius: 3em;
+  li:hover {
+    font-weight: bold;
+    border: 3px inset white;
+    border-radius: 3em;
+  }
+}
+
+nav ul li:active {
+  border-color: palevioletred;
+  transform: scale(125%, 125%);
+}
+nav ul li {
+  border: 3px solid #0a1e3d;
+  padding: 0.5em;
+  margin: 0.2em;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  padding: 0.5em;
+  margin-left: 1em;
+  margin-right: 1em;
+  text-transform: uppercase;
+}

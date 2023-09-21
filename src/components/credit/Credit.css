@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+   
+}
+
+.link{
+ 
+    
+    color: #0a1e3d;
+    font-family: Arial;
+   
+    
+}
+
+.link:hover>*{
+    font-weight: 700;
+    
+   
+}
